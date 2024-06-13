@@ -10,8 +10,16 @@
 
 **2. ChIP-seq pipeline**
 
+**3. TERRA-QUANT pipeline**
+
+**4. NGS Tutorial**
+
+## Unity Game projects
+
+**1. Nine Men's Morris**
+
 ## Other projects
 
 **1. [Python] PyautoGUI App**
 
-**2. [HTML5] San-cono website**
+**2. [HTML5] Customized websites**
